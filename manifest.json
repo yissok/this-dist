@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "app": "this",
+  "global": "__sveltekit_1m3s7ry",
+  "start": "_app/immutable/entry/start.XoNBK9fm.js",
+  "appEntry": "_app/immutable/entry/app.BPxqvBOf.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/this-dist/_app/immutable/entry/start.XoNBK9fm.js",
+    "https://yissok.github.io/this-dist/_app/immutable/chunks/zFJwTEzt.js",
+    "https://yissok.github.io/this-dist/_app/immutable/chunks/7QBzndnE.js",
+    "https://yissok.github.io/this-dist/_app/immutable/chunks/CVroO2ag.js",
+    "https://yissok.github.io/this-dist/_app/immutable/entry/app.BPxqvBOf.js",
+    "https://yissok.github.io/this-dist/_app/immutable/chunks/BlJTAOW4.js",
+    "https://yissok.github.io/this-dist/_app/immutable/chunks/QPkBlMv3.js",
+    "https://yissok.github.io/this-dist/_app/immutable/chunks/DKsbmNDT.js",
+    "https://yissok.github.io/this-dist/_app/immutable/chunks/CYoiTvho.js",
+    "https://yissok.github.io/this-dist/_app/immutable/nodes/0.lnRxe7Uh.js"
+  ]
+}
